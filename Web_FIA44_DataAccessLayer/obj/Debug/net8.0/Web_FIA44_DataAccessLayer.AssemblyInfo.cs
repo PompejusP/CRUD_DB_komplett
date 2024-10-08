@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Web_FIA44_DataAccessLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fe808dc161e5a293105855b874d61a87630f58c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2433304126a6c2f956a0fd41aa1d2ac72891bcb3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Web_FIA44_DataAccessLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Web_FIA44_DataAccessLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

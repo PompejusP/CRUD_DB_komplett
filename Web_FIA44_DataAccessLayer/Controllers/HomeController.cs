@@ -17,6 +17,7 @@ namespace Web_FIA44_DataAccessLayer.Controllers
             dal = new SqlDal(connString);
 
         }
+        #region Alle Artikel einsehen bzw Startseite anzeigen
         [HttpGet]
         public IActionResult Index()
         {
@@ -24,6 +25,8 @@ namespace Web_FIA44_DataAccessLayer.Controllers
             List<Article> AllArticle = dal.GetAllArticles();
             return View(AllArticle);
         }
+        #endregion
+        #region Neuen Artikel erstellen
         [HttpGet]
         public IActionResult Create()
         {
@@ -32,6 +35,7 @@ namespace Web_FIA44_DataAccessLayer.Controllers
             //article.Quantity = 0;
             return View();
         }
+        
         [HttpPost]
         public IActionResult Create(Article article)
         {if (!ModelState.IsValid)
@@ -46,6 +50,8 @@ namespace Web_FIA44_DataAccessLayer.Controllers
             dal.DeleteArticleById(Aid);
             return RedirectToAction("Index");
         }
+        #endregion
+        #region Artikel editieren bzw. Ändern
         [HttpGet]
         public IActionResult Update(int Aid)
         {
@@ -62,11 +68,14 @@ namespace Web_FIA44_DataAccessLayer.Controllers
             dal.UpdateArticle(article);
             return RedirectToAction("Index");
         }
+        #endregion
+        #region Artikel in Detailansicht anzeigen lassen
         [HttpGet]
         public IActionResult Details(int Aid)
         {
             Article article = dal.GetArticleById(Aid);
             return View(article);
         }
+        #endregion
     }
 }

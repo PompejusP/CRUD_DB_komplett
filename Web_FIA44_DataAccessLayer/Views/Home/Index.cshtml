@@ -33,9 +33,9 @@
 				<td>@article.Price.ToString("c")</td>
                 <td>@(article.IsHarzard?"✅":"❌")</td>
                 <td>
-                    <a class="link-body-emphasis" href="/Home/delete?aid=@article.Aid">🚽</a>
-                    <a class="link-body-emphasis" href="/Home/update?aid=@article.Aid">🧹</a>
-					<a class="link-body-emphasis" href="/Home/details?aid=@article.Aid">🔍</a>
+                    <a class="link-body-emphasis" href="/Home/delete?aid=@article.Aid" title="@article.Description löschen" onclick="return confirm('Warnung\n @article.Description wirklich löschen?')">🚽</a>
+                    <a class="link-body-emphasis" href="/Home/update?aid=@article.Aid" title="@article.Description ändern">🧹</a>
+					<a class="link-body-emphasis" href="/Home/details?aid=@article.Aid" title="@article.Description">🔍</a>
                     </td>
 			</tr>
 		}
