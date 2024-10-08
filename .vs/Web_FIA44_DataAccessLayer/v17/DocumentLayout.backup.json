@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98097486-EFF3-45AF-9F8B-2B0ADDD411A4}|Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer.csproj|d:\\fia 44 programmieren\\web_fia44_dataaccesslayer\\web_fia44_dataaccesslayer\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98097486-EFF3-45AF-9F8B-2B0ADDD411A4}|Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer.csproj|solutionrelative:web_fia44_dataaccesslayer\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98097486-EFF3-45AF-9F8B-2B0ADDD411A4}|Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer.csproj|d:\\fia 44 programmieren\\web_fia44_dataaccesslayer\\web_fia44_dataaccesslayer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98097486-EFF3-45AF-9F8B-2B0ADDD411A4}|Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer.csproj|solutionrelative:web_fia44_dataaccesslayer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98097486-EFF3-45AF-9F8B-2B0ADDD411A4}|Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer.csproj|d:\\fia 44 programmieren\\web_fia44_dataaccesslayer\\web_fia44_dataaccesslayer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98097486-EFF3-45AF-9F8B-2B0ADDD411A4}|Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer.csproj|solutionrelative:web_fia44_dataaccesslayer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98097486-EFF3-45AF-9F8B-2B0ADDD411A4}|Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer.csproj|d:\\fia 44 programmieren\\web_fia44_dataaccesslayer\\web_fia44_dataaccesslayer\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,12 +23,8 @@
       "RelativeMoniker": "D:0:0:{98097486-EFF3-45AF-9F8B-2B0ADDD411A4}|Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer.csproj|solutionrelative:web_fia44_dataaccesslayer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98097486-EFF3-45AF-9F8B-2B0ADDD411A4}|Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer.csproj|d:\\fia 44 programmieren\\web_fia44_dataaccesslayer\\web_fia44_dataaccesslayer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{98097486-EFF3-45AF-9F8B-2B0ADDD411A4}|Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer.csproj|solutionrelative:web_fia44_dataaccesslayer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98097486-EFF3-45AF-9F8B-2B0ADDD411A4}|Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer.csproj|d:\\fia 44 programmieren\\web_fia44_dataaccesslayer\\web_fia44_dataaccesslayer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98097486-EFF3-45AF-9F8B-2B0ADDD411A4}|Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer.csproj|solutionrelative:web_fia44_dataaccesslayer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98097486-EFF3-45AF-9F8B-2B0ADDD411A4}|Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer.csproj|d:\\fia 44 programmieren\\web_fia44_dataaccesslayer\\web_fia44_dataaccesslayer\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98097486-EFF3-45AF-9F8B-2B0ADDD411A4}|Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer.csproj|solutionrelative:web_fia44_dataaccesslayer\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 219,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Article.cs",
               "DocumentMoniker": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\Models\\Article.cs",
               "RelativeDocumentMoniker": "Web_FIA44_DataAccessLayer\\Models\\Article.cs",
@@ -67,67 +67,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Update.cshtml",
               "DocumentMoniker": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\Views\\Home\\Update.cshtml",
               "RelativeDocumentMoniker": "Web_FIA44_DataAccessLayer\\Views\\Home\\Update.cshtml",
               "ToolTip": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\Views\\Home\\Update.cshtml",
               "RelativeToolTip": "Web_FIA44_DataAccessLayer\\Views\\Home\\Update.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-08T07:30:39.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "Web_FIA44_DataAccessLayer\\Views\\Home\\Details.cshtml",
               "ToolTip": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\Views\\Home\\Details.cshtml",
               "RelativeToolTip": "Web_FIA44_DataAccessLayer\\Views\\Home\\Details.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswDQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-08T07:02:08.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\Views\\Home\\Create.cshtml",
-              "RelativeDocumentMoniker": "Web_FIA44_DataAccessLayer\\Views\\Home\\Create.cshtml",
-              "ToolTip": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\Views\\Home\\Create.cshtml",
-              "RelativeToolTip": "Web_FIA44_DataAccessLayer\\Views\\Home\\Create.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-07T07:26:16.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Web_FIA44_DataAccessLayer\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Web_FIA44_DataAccessLayer\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-02T09:14:11.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Web_FIA44_DataAccessLayer\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Web_FIA44_DataAccessLayer\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAIwEgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T08:03:00.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Web_FIA44_DataAccessLayer\\Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Web_FIA44_DataAccessLayer\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:26:16.986Z",
               "EditorCaption": ""
             }
           ]

@@ -247,3 +247,4 @@ D:\FIA 44 Programmieren\Web_FIA44_DataAccessLayer\Web_FIA44_DataAccessLayer\obj\
 D:\FIA 44 Programmieren\Web_FIA44_DataAccessLayer\Web_FIA44_DataAccessLayer\obj\Debug\net8.0\Web_FIA44_DataAccessLayer.pdb
 D:\FIA 44 Programmieren\Web_FIA44_DataAccessLayer\Web_FIA44_DataAccessLayer\obj\Debug\net8.0\Web_FIA44_DataAccessLayer.genruntimeconfig.cache
 D:\FIA 44 Programmieren\Web_FIA44_DataAccessLayer\Web_FIA44_DataAccessLayer\obj\Debug\net8.0\ref\Web_FIA44_DataAccessLayer.dll
+D:\FIA 44 Programmieren\Web_FIA44_DataAccessLayer\Web_FIA44_DataAccessLayer\obj\Debug\net8.0\Web_FIA44_DataAccessLayer.sourcelink.json
