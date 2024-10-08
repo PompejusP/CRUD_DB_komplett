@@ -1,0 +1,44 @@
+﻿@using Web_FIA44_DataAccessLayer.Models
+@model List<Article>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+	<link href="~/css/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+	<link href="~/css/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="~/css/bootstrap/dist/css/bootstrap.rtl.css" rel="stylesheet" />
+	<link href="~/css/bootstrap/dist/css/bootstrap.rtl.min.css" rel="stylesheet" />
+</head>
+<body class="bg-secondary">
+    <h1 class="text-center p-3 mb-2 bg-secondary text-info">Artikelverwaltung</h1>
+    <p class="d-flex justify-content-center"><a class="btn btn-primary align-content-center" href="/Home/Create">Neuer Artikel</a></p>
+    <table class="table table-secondary table-hover table-striped-columns text-center ">
+        <tr>
+            <th>Aid</th>
+            <th>Beschreibung</th>
+            <th>Bestand</th>
+            <th>Preis</th>
+            <th>Gefährlich</th>
+            <th>&nbsp;</th>
+        </tr>
+        @foreach (Article article in Model)
+		{
+			<tr>
+				<td>@article.Aid</td>
+				<td>@article.Description</td>
+				<td>@article.Quantity</td>
+				<td>@article.Price.ToString("c")</td>
+                <td>@(article.IsHarzard?"✅":"❌")</td>
+                <td>
+                    <a class="link-body-emphasis" href="/Home/delete?aid=@article.Aid">🚽</a>
+                    <a class="link-body-emphasis" href="/Home/update?aid=@article.Aid">🧹</a>
+					<a class="link-body-emphasis" href="/Home/details?aid=@article.Aid">🔍</a>
+                    </td>
+			</tr>
+		}
+    </table>
+</body>
+</html>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Web_FIA44_DataAccessLayer.props" />
+</Project>

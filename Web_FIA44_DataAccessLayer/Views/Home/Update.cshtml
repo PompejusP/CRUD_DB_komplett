@@ -1,0 +1,63 @@
+﻿@model Web_FIA44_DataAccessLayer.Models.Article
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Update Artikel</title>
+    <link href="~/css/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/css/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/css/bootstrap/dist/css/bootstrap.rtl.css" rel="stylesheet" />
+    <link href="~/css/bootstrap/dist/css/bootstrap.rtl.min.css" rel="stylesheet" />
+</head>
+<body>
+<div class="container">
+<h4>Article</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Update">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        
+                <input type="hidden" asp-for="Aid" class="form-control" />
+               
+            
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Quantity" class="control-label"></label>
+                <input asp-for="Quantity" class="form-control" />
+                <span asp-validation-for="Quantity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IsHarzard" /> @Html.DisplayNameFor(model => model.IsHarzard)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+		</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+</body>
+</html>

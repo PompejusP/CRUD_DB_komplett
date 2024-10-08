@@ -1,0 +1,2073 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\Style.css",
+      "PackagePath": "staticwebassets\\css\\Style.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\alert.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\alert.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\alert.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\alert.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\alert.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\alert.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\base-component.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\base-component.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\base-component.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\base-component.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\base-component.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\base-component.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\button.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\button.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\button.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\button.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\button.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\button.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\carousel.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\carousel.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\carousel.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\carousel.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\carousel.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\carousel.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\collapse.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\collapse.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\collapse.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\collapse.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\collapse.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\collapse.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\dom\\data.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\dom\\data.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\dom\\data.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\dom\\data.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\dom\\data.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\dom\\data.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\dom\\event-handler.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\dom\\event-handler.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\dom\\event-handler.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\dom\\event-handler.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\dom\\event-handler.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\dom\\manipulator.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\dom\\manipulator.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\dom\\manipulator.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\dom\\manipulator.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\dom\\manipulator.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\dom\\selector-engine.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\dom\\selector-engine.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\dom\\selector-engine.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\dom\\selector-engine.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\dropdown.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\dropdown.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\dropdown.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\dropdown.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\dropdown.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\dropdown.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\modal.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\modal.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\modal.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\modal.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\modal.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\modal.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\offcanvas.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\offcanvas.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\offcanvas.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\offcanvas.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\offcanvas.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\offcanvas.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\popover.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\popover.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\popover.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\popover.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\popover.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\popover.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\scrollspy.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\scrollspy.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\scrollspy.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\scrollspy.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\scrollspy.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\scrollspy.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\tab.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\tab.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\tab.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\tab.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\tab.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\tab.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\toast.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\toast.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\toast.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\toast.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\toast.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\toast.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\tooltip.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\tooltip.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\tooltip.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\tooltip.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\tooltip.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\tooltip.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\backdrop.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\backdrop.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\backdrop.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\backdrop.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\backdrop.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\component-functions.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\component-functions.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\component-functions.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\component-functions.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\component-functions.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\component-functions.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\config.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\config.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\config.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\config.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\config.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\config.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\focustrap.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\focustrap.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\focustrap.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\focustrap.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\focustrap.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\focustrap.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\index.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\index.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\index.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\index.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\index.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\index.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\sanitizer.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\sanitizer.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\sanitizer.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\sanitizer.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\sanitizer.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\scrollbar.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\scrollbar.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\scrollbar.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\scrollbar.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\swipe.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\swipe.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\swipe.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\swipe.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\swipe.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\swipe.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\template-factory.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\template-factory.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\template-factory.js.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\template-factory.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\dist\\util\\template-factory.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\dist\\util\\template-factory.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\index.esm.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\index.esm.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\index.esm.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\index.esm.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\index.umd.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\index.umd.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\index.umd.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\index.umd.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\alert.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\alert.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\alert.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\alert.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\base-component.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\base-component.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\base-component.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\base-component.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\button.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\button.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\button.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\button.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\carousel.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\carousel.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\carousel.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\carousel.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\collapse.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\collapse.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\collapse.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\collapse.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\dom\\data.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\dom\\data.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\dom\\data.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\dom\\data.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\dom\\event-handler.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\dom\\event-handler.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\dom\\event-handler.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\dom\\manipulator.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\dom\\manipulator.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\dom\\manipulator.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\dom\\selector-engine.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\dom\\selector-engine.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\dropdown.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\dropdown.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\dropdown.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\dropdown.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\modal.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\modal.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\modal.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\modal.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\offcanvas.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\offcanvas.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\offcanvas.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\offcanvas.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\popover.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\popover.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\popover.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\popover.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\scrollspy.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\scrollspy.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\scrollspy.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\scrollspy.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\tab.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\tab.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\tab.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\tab.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\toast.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\toast.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\toast.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\toast.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\tooltip.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\tooltip.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\tooltip.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\tooltip.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\util\\backdrop.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\util\\backdrop.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\util\\backdrop.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\util\\component-functions.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\util\\component-functions.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\util\\component-functions.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\util\\component-functions.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\util\\config.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\util\\config.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\util\\config.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\util\\config.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\util\\focustrap.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\util\\focustrap.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\util\\focustrap.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\util\\focustrap.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\util\\index.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\util\\index.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\util\\index.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\util\\index.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\util\\sanitizer.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\util\\sanitizer.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\util\\sanitizer.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\util\\scrollbar.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\util\\scrollbar.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\util\\scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\util\\swipe.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\util\\swipe.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\util\\swipe.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\util\\swipe.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\util\\template-factory.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\util\\template-factory.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\js\\src\\util\\template-factory.min.js",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\js\\src\\util\\template-factory.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\license",
+      "PackagePath": "staticwebassets\\css\\bootstrap"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\package.json",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\package.json"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\readme.md",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\readme.md"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_variables-dark.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\helpers\\_focus-ring.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\helpers\\_focus-ring.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\helpers\\_icon-link.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\helpers\\_icon-link.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\css\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\authors.txt",
+      "PackagePath": "staticwebassets\\js\\jquery\\authors.txt"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\bower.json",
+      "PackagePath": "staticwebassets\\js\\jquery\\bower.json"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\js\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\js\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\license.txt",
+      "PackagePath": "staticwebassets\\js\\jquery\\license.txt"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\package.json",
+      "PackagePath": "staticwebassets\\js\\jquery\\package.json"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\readme.md",
+      "PackagePath": "staticwebassets\\js\\jquery\\readme.md"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\ajax.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\ajax.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\ajax.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\ajax.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\ajax\\jsonp.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\ajax\\jsonp.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\ajax\\jsonp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\ajax\\jsonp.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\ajax\\load.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\ajax\\load.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\ajax\\load.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\ajax\\load.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\ajax\\script.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\ajax\\script.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\ajax\\script.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\ajax\\script.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\ajax\\var\\location.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\ajax\\var\\location.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\ajax\\var\\location.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\ajax\\var\\location.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\ajax\\var\\nonce.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\ajax\\var\\nonce.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\ajax\\var\\nonce.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\ajax\\var\\nonce.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\ajax\\var\\rquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\ajax\\var\\rquery.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\ajax\\var\\rquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\ajax\\var\\rquery.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\ajax\\xhr.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\ajax\\xhr.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\ajax\\xhr.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\ajax\\xhr.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\attributes.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\attributes.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\attributes.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\attributes.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\attributes\\attr.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\attributes\\attr.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\attributes\\attr.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\attributes\\attr.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\attributes\\classes.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\attributes\\classes.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\attributes\\classes.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\attributes\\classes.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\attributes\\prop.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\attributes\\prop.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\attributes\\prop.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\attributes\\prop.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\attributes\\support.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\attributes\\support.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\attributes\\support.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\attributes\\support.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\attributes\\val.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\attributes\\val.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\attributes\\val.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\attributes\\val.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\callbacks.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\callbacks.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\callbacks.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\callbacks.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\access.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\access.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\access.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\access.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\camelcase.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\camelcase.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\camelcase.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\camelcase.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\domeval.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\domeval.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\domeval.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\domeval.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\init.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\init.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\init.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\init.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\isattached.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\isattached.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\isattached.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\isattached.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\nodename.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\nodename.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\nodename.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\nodename.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\parsehtml.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\parsehtml.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\parsehtml.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\parsehtml.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\parsexml.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\parsexml.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\parsexml.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\parsexml.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\ready-no-deferred.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\ready-no-deferred.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\ready-no-deferred.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\ready-no-deferred.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\ready.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\ready.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\ready.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\ready.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\readyexception.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\readyexception.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\readyexception.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\readyexception.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\stripandcollapse.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\stripandcollapse.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\stripandcollapse.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\stripandcollapse.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\support.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\support.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\support.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\support.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\totype.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\totype.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\totype.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\totype.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\var\\rhtml.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\var\\rhtml.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\var\\rhtml.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\var\\rhtml.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\var\\rsingletag.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\var\\rsingletag.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\core\\var\\rsingletag.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\core\\var\\rsingletag.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\addgethookif.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\addgethookif.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\addgethookif.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\addgethookif.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\adjustcss.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\adjustcss.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\adjustcss.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\adjustcss.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\curcss.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\curcss.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\curcss.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\curcss.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\finalpropname.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\finalpropname.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\finalpropname.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\finalpropname.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\hiddenvisibleselectors.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\hiddenvisibleselectors.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\hiddenvisibleselectors.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\hiddenvisibleselectors.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\showhide.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\showhide.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\showhide.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\showhide.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\support.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\support.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\support.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\support.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\var\\cssexpand.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\var\\cssexpand.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\var\\cssexpand.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\var\\cssexpand.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\var\\getstyles.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\var\\getstyles.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\var\\getstyles.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\var\\getstyles.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\var\\ishiddenwithintree.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\var\\ishiddenwithintree.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\var\\ishiddenwithintree.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\var\\ishiddenwithintree.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\var\\rboxstyle.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\var\\rboxstyle.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\var\\rboxstyle.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\var\\rboxstyle.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\var\\rcustomprop.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\var\\rcustomprop.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\var\\rcustomprop.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\var\\rcustomprop.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\var\\rnumnonpx.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\var\\rnumnonpx.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\var\\rnumnonpx.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\var\\rnumnonpx.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\var\\swap.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\var\\swap.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\css\\var\\swap.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\css\\var\\swap.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\data.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\data.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\data.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\data.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\data\\data.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\data\\data.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\data\\data.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\data\\data.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\data\\var\\acceptdata.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\data\\var\\acceptdata.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\data\\var\\acceptdata.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\data\\var\\acceptdata.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\data\\var\\datapriv.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\data\\var\\datapriv.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\data\\var\\datapriv.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\data\\var\\datapriv.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\data\\var\\datauser.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\data\\var\\datauser.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\data\\var\\datauser.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\data\\var\\datauser.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\deferred.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\deferred.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\deferred.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\deferred.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\deferred\\exceptionhook.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\deferred\\exceptionhook.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\deferred\\exceptionhook.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\deferred\\exceptionhook.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\deprecated.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\deprecated.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\deprecated.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\deprecated.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\deprecated\\ajax-event-alias.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\deprecated\\ajax-event-alias.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\deprecated\\ajax-event-alias.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\deprecated\\ajax-event-alias.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\deprecated\\event.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\deprecated\\event.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\deprecated\\event.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\deprecated\\event.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\dimensions.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\dimensions.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\dimensions.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\dimensions.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\effects.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\effects.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\effects.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\effects.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\effects\\animatedselector.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\effects\\animatedselector.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\effects\\animatedselector.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\effects\\animatedselector.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\effects\\tween.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\effects\\tween.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\effects\\tween.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\effects\\tween.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\event.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\event.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\event.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\event.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\event\\trigger.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\event\\trigger.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\event\\trigger.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\event\\trigger.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\exports\\amd.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\exports\\amd.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\exports\\amd.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\exports\\amd.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\exports\\global.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\exports\\global.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\exports\\global.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\exports\\global.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\jquery.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\manipulation.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\manipulation.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\manipulation.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\manipulation.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\manipulation\\_evalurl.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\manipulation\\_evalurl.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\manipulation\\_evalurl.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\manipulation\\_evalurl.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\manipulation\\buildfragment.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\manipulation\\buildfragment.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\manipulation\\buildfragment.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\manipulation\\buildfragment.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\manipulation\\getall.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\manipulation\\getall.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\manipulation\\getall.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\manipulation\\getall.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\manipulation\\setglobaleval.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\manipulation\\setglobaleval.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\manipulation\\setglobaleval.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\manipulation\\setglobaleval.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\manipulation\\support.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\manipulation\\support.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\manipulation\\support.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\manipulation\\support.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\manipulation\\var\\rscripttype.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\manipulation\\var\\rscripttype.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\manipulation\\var\\rscripttype.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\manipulation\\var\\rscripttype.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\manipulation\\var\\rtagname.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\manipulation\\var\\rtagname.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\manipulation\\var\\rtagname.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\manipulation\\var\\rtagname.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\manipulation\\wrapmap.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\manipulation\\wrapmap.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\manipulation\\wrapmap.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\manipulation\\wrapmap.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\offset.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\offset.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\offset.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\offset.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\queue.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\queue.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\queue.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\queue.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\queue\\delay.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\queue\\delay.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\queue\\delay.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\queue\\delay.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\selector-native.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\selector-native.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\selector-native.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\selector-native.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\selector.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\selector.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\selector.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\selector.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\selector\\contains.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\selector\\contains.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\selector\\contains.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\selector\\contains.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\selector\\escapeselector.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\selector\\escapeselector.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\selector\\escapeselector.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\selector\\escapeselector.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\serialize.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\serialize.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\serialize.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\serialize.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\traversing.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\traversing.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\traversing.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\traversing.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\traversing\\findfilter.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\traversing\\findfilter.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\traversing\\findfilter.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\traversing\\findfilter.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\traversing\\var\\dir.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\traversing\\var\\dir.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\traversing\\var\\dir.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\traversing\\var\\dir.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\traversing\\var\\rneedscontext.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\traversing\\var\\rneedscontext.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\traversing\\var\\rneedscontext.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\traversing\\var\\rneedscontext.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\traversing\\var\\siblings.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\traversing\\var\\siblings.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\traversing\\var\\siblings.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\traversing\\var\\siblings.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\arr.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\arr.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\arr.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\arr.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\class2type.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\class2type.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\class2type.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\class2type.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\document.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\document.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\document.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\document.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\documentelement.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\documentelement.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\documentelement.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\documentelement.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\flat.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\flat.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\flat.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\flat.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\fntostring.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\fntostring.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\fntostring.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\fntostring.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\getproto.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\getproto.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\getproto.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\getproto.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\hasown.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\hasown.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\hasown.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\hasown.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\indexof.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\indexof.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\indexof.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\indexof.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\isfunction.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\isfunction.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\isfunction.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\isfunction.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\iswindow.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\iswindow.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\iswindow.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\iswindow.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\objectfunctionstring.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\objectfunctionstring.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\objectfunctionstring.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\objectfunctionstring.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\pnum.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\pnum.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\pnum.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\pnum.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\pop.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\pop.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\pop.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\pop.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\push.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\push.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\push.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\push.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\rcheckabletype.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\rcheckabletype.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\rcheckabletype.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\rcheckabletype.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\rcssnum.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\rcssnum.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\rcssnum.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\rcssnum.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\rnothtmlwhite.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\rnothtmlwhite.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\rnothtmlwhite.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\rnothtmlwhite.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\rtrimcss.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\rtrimcss.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\rtrimcss.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\rtrimcss.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\slice.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\slice.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\slice.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\slice.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\sort.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\sort.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\sort.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\sort.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\splice.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\splice.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\splice.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\splice.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\support.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\support.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\support.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\support.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\tostring.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\tostring.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\tostring.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\tostring.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\whitespace.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\whitespace.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\var\\whitespace.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\var\\whitespace.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\wrap.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\wrap.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_DataAccessLayer\\Web_FIA44_DataAccessLayer\\wwwroot\\js\\jquery\\src\\wrap.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\src\\wrap.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Web_FIA44_DataAccessLayer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Web_FIA44_DataAccessLayer.props",
+      "PackagePath": "build\\Web_FIA44_DataAccessLayer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Web_FIA44_DataAccessLayer.props",
+      "PackagePath": "buildMultiTargeting\\Web_FIA44_DataAccessLayer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Web_FIA44_DataAccessLayer.props",
+      "PackagePath": "buildTransitive\\Web_FIA44_DataAccessLayer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

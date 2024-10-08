@@ -1,0 +1,63 @@
+﻿@model Web_FIA44_DataAccessLayer.Models.Article
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+    <link href="~/css/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/css/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/css/bootstrap/dist/css/bootstrap.rtl.css" rel="stylesheet" />
+    <link href="~/css/bootstrap/dist/css/bootstrap.rtl.min.css" rel="stylesheet" />
+</head>
+<body class="bg-secondary">
+    <div class="card text-center bg-body-tertiary " >
+        <h4 class="text-center p-3 mb-2 bg-secondary text-info">Article</h4>
+    <hr  />
+    <dl class="card text-center bg-secondary">
+            <dt class=" col align-self-center text-info">
+            @Html.DisplayNameFor(model => model.Aid)
+        </dt>
+            <dd class=" col align-self-center text-dark">
+            @Html.DisplayFor(model => model.Aid)
+        </dd>
+            <dt class="col align-self-center text-info">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+            <dd class="col align-self-center text-dark">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+            <dt class="col align-self-center text-info">
+            @Html.DisplayNameFor(model => model.Quantity)
+        </dt>
+            <dd class="col align-self-center text-dark">
+            @Html.DisplayFor(model => model.Quantity)
+        </dd>
+            <dt class="col align-self-center text-info">
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+            <dd class="col align-self-center text-dark">
+                @Model.Price.ToString("c")
+        </dd>
+            <dt class="col align-self-center text-info">
+            @Html.DisplayNameFor(model => model.IsHarzard)
+        </dt>
+            <dd class="col align-self-center">
+                @(Model.IsHarzard ? "✅" : "❌")     
+        </dd>
+    </dl>
+</div>
+<div>
+    <div class="d-flex justify-content-center " >
+        <a class="btn btn-info align-content-center" href="/Home/update?aid=@Model.Aid">Editieren</a>
+        </div> 
+        <hr />
+        <div class="d-flex justify-content-center ">
+    <a class="btn btn-info align-content-center" asp-action="Index">Zurück zur Übersicht</a>
+		</div>
+	</div>
+</body>
+</html>
